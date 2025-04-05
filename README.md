@@ -41,7 +41,7 @@ This project is an Android application built using Kotlin, Jetpack Compose, and 
 
 ## Video
 
-![Watch the video](<video controls src="https://res.cloudinary.com/djwqr0hgq/video/upload/v1743847170/o9psgqhmefiowcxhsiqb.mp4" title="videos/Demo.mp4"></video>)
+<video controls src="https://res.cloudinary.com/djwqr0hgq/video/upload/v1743847170/o9psgqhmefiowcxhsiqb.mp4" title="videos/Demo.mp4"></video>
 
 ## Made By
 
