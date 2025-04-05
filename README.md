@@ -27,14 +27,23 @@ This project is an Android application built using Kotlin, Jetpack Compose, and 
 
 ## Screenshots
 
-To be added
+<table>
+  <tr>
+    <td><img src="images/Landing.jpeg" alt="Landing Page" width="100%"/></td>
+    <td><img src="images/JobDesc1.jpeg" alt="Job Description 1" width="100%"/></td>
+    <td><img src="images/JobDesc2.jpeg" alt="Job Description 2" width="100%"/></td> 
+  </tr>
+  <tr>
+   <td><img src="images/Bookmarks1.jpeg" alt="Bookmarks 1" width="100%"/></td>
+    <td><img src="images/Bookmarks2.jpeg" alt="Bookmarks 2" width="100%"/></td>
+  </tr>
+</table>
 
 ## Video
 
-To be added
-
+![Watch the video](<video controls src="https://res.cloudinary.com/djwqr0hgq/video/upload/v1743847170/o9psgqhmefiowcxhsiqb.mp4" title="videos/Demo.mp4"></video>)
 
 ## Made By
 
-This project is developed by [Dalima Sahu](https://dalima2910.vercel.app) in submission of assignment for App Developer Intern.
+This project is developed by [Dalima Sahu](https://dalima2910.vercel.app) in submission of assignment for App Developer Intern at Lokal.
 
